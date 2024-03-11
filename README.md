@@ -21,3 +21,11 @@ In this lesson we covered:
 - The ordering of the Scenes in the config.scene determines the first Scene to play .
 - How to stop a Scene and start another Scene.
 - How to organize our code into different files and incorporate these files into our game using <script> elements.
+
+
+### Instructions
+
+If you want to challenge yourself:
+
+- Create an EndScene class to the game.
+- Add more levels to the existing game.
